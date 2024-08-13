@@ -4,5 +4,5 @@ An incrementally updated collection of C utilities. Check the README.md of each 
 
 ## Contents
 
-- [Utility 1](./vector/README.md)
+- [Vectors](./vector/README.md)
 
