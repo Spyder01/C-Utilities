@@ -1,4 +1,8 @@
 # C Utilities
 
-An incrementally updated collection of c utilities. Check README.md of each utility directory to know about it's usage
+An incrementally updated collection of C utilities. Check the README.md of each utility directory to learn about its usage.
+
+## Contents
+
+- [Utility 1](./vector/README.md)
 
