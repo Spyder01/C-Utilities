@@ -30,7 +30,7 @@ name *name##Init(size_t initial_capacity) {                          \
                                                                      \
 void name##Free(name *vector) {                                      \
     free(vector->data);                                              \
-    free(vector);                                                    \
+    free(vector);                                                     \
 }                                                                    \
                                                                      \
 void name##Add(name *vector, type value) {                           \

@@ -1,9 +1,10 @@
 #include "vector.h"
 #include <stdio.h>
 
+DEFINE_VECTOR_TYPE(int, IntVector);
+
 int main() {
     // Define a vector of integers
-    DEFINE_VECTOR_TYPE(int, IntVector);
 
     // Initialize an integer vector
     IntVector *intVector = IntVectorInit(4);
